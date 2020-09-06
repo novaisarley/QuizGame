@@ -4,4 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/TelaInicial.unity
+    guid: 8a7417ce8ee4014428cdad39b017815b
+  - enabled: 1
+    path: Assets/Scenes/TelaExercicios.unity
+    guid: 00b0009910ac96c4390bad48c305c5d3
